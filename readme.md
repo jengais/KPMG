@@ -18,6 +18,4 @@ For Part2
 - After that separately run ui.py file and the UI browser will be opened.
 - Start interacting.
 
--The same with the part2.
-
 Enjoy :)
